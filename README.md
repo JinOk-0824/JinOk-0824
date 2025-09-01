@@ -7,9 +7,10 @@ My interests lie in **nuclear safety**, **AI integration**, and **embedded syste
 for safety-critical applications. I'm passionate about combining engineering insight with coding  
 to make systems smarter and more reliable.
 
-Tech Stack: **Python**, **Java**, **C**
+**Languages & Tools:** Python · Java · C  · C++ · SQL   
+**Interests:** PSA · I&C · Embedded Systems · AI
 
-### 🏢 Etoos (2022.12 – 2025.02)  
+### 🏢 E2S (2022.12 – 2025.02)  
 **Role:** Embedded Software Developer  
 - Maintained and developed control system software platforms for Korean nuclear power plants  
 - Participated in SMR (Small Modular Reactor) platform development  
@@ -17,5 +18,20 @@ Tech Stack: **Python**, **Java**, **C**
 
 ### 🏢 Gwangju AI Center (2020.12 – 2021.12)  
 **Role:** Software Developer  
-- Developed copyright automation tools, web apps, and RPA scripts  
+- Developed bicdata collection automation tools, web apps, and API scripts  
 - Managed internal databases and contributed to smart system prototypes
+
+## 📁 Projects
+<!-- List of PSA automation or other public projects -->
+NA
+
+## 📚 Research
+<!-- List of publications, posters, or academic contributions -->
+NA
+
+## ⚙️ Skills
+<!-- Programming languages, frameworks, tools, etc. -->
+NA
+
+## 📫 Contact
+wlsdhr6615@khu.ac.kr
