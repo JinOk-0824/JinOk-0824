@@ -7,9 +7,6 @@ My interests lie in **nuclear safety**, **AI integration**, and **embedded syste
 for safety-critical applications. I'm passionate about combining engineering insight with coding  
 to make systems smarter and more reliable.
 
-**Languages & Tools:** Python · Java · C  · C++ · SQL   
-**Interests:** PSA · I&C · Embedded Systems · AI
-
 ### 🏢 E2S (2022.12 – 2025.02)  
 **Role:** Embedded Software Developer  
 - Maintained and developed control system software platforms for Korean nuclear power plants  
@@ -30,8 +27,9 @@ NA
 NA
 
 ## ⚙️ Skills
-<!-- Programming languages, frameworks, tools, etc. -->
-NA
+**Languages & Tools:** Python · Java · C  · C++ · SQL   
+**Interests:** PSA · I&C · Embedded Systems · AI
+
 
 ## 📫 Contact
 wlsdhr6615@khu.ac.kr
